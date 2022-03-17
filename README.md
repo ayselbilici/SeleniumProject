@@ -1,4 +1,7 @@
 # SeleniumProject
+
+Using POM requirements and writing Java+Selenium
+
 Scenario
 --------
 * Visit insider site and check Insider home page is opened
